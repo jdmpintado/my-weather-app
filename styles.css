@@ -1,0 +1,81 @@
+body {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+
+.weather-app {
+    border: 1px solid #0b5ed7;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.search-form {
+    padding: 0 0 40px;
+}
+
+.weather-today1 {
+    text-align: left;
+}
+
+h1 {
+    color: #0b5ed7;
+    font-size: 28px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.weather-icon-today {
+    height: 64px;
+    margin-right: 20px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.currentTemperature {
+    font-size: 36px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.units {
+    position: relative;
+    top: -18px;
+}
+
+.weather-today2 {
+    text-align: right;
+}
+
+h2 {
+    color: #0b5ed7;
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 40px auto 5px;
+    color: #0b5ed7;
+}
+
+.weather-icon {
+    height: 32px;
+}
+
+p {
+    font-size: 14px;
+    padding: 5px 0;
+    color: rgba(0, 0, 0, 0.7);
+}
